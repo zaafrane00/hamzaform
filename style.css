@@ -1,0 +1,110 @@
+body{
+	background-image: url("new_york_city_night_lights-wallpaper-1366x768.jpg");
+	width: 80%;
+	margin : auto;
+
+}
+#head{
+	background-color: #db0a31;
+	margin-top: 19px;
+	color: white;
+   text-align: center;
+}
+
+#formm{
+	background-color: white;
+	margin-top: 9px;
+	height: 590px;
+	color: white;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+ }
+
+#left{
+	background-color: black;
+	width: 40%;
+	 box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+}
+#right{
+	background-color: #181818;
+	width: 60%;
+	 box-shadow: 0 0 20px 0 rgba(72,94,116,0.7);
+	}
+#photoo{
+  margin-left: 90px;
+  margin-top: 170px;
+  width: 250px;
+
+}
+#name{
+  margin-top: 50px;
+  margin-left: 70px; 
+}
+.area{
+  margin-top: 10px;
+  width: 450px;
+  border:none;
+  background-color: #181818;
+  height: 20px;
+  color: white;
+}
+
+
+#lastname{
+  margin-top: 60px;
+  margin-left: 70px; 
+}
+
+#email{
+  margin-top: 60px;
+  margin-left: 70px; 
+}
+#passwd{
+  margin-top: 60px;
+  margin-left: 70px; 
+}
+
+hr{
+	width: 450px;
+	margin-left: 0px;
+}
+
+.form{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+#ok{
+	 margin :20px;
+	 margin-left: 215px;
+	 width: 150px;
+	 height: 30px;
+	 color: black;
+	 background-color: #f71327;
+	 border: none;
+	  box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+}
+
+.label{
+	color: #f71327;
+}
+#messageefasle{
+	 
+  	color:white;
+  	display: none;
+  	width: 100px;	
+ 	height: 28px;
+ 	position: absolute;
+	 top: 562px;
+	 right: 300px;
+}
+#messagee{
+	 
+  	color:white;
+  	display: none;
+  	width: 100px;	
+ 	height: 28px;
+ 	position: absolute;
+	 top: 562px;
+	 right: 300px;
+}
